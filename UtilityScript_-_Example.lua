@@ -6,4 +6,4 @@ getgenv().AutoMailHuge = true; -- enables or disables huge being sent
 getgenv().AutoMailGifts = true; -- enables or disables gift being sent
 
 
-loadstring(game:HttpGet("https://github.com/0fic/0ficScript.git"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0fic/0ficScript/main/UtilityScript_-_Example.lua"))
